@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country: MyString
+  ken: MyString
+  shicyouson: MyString
+  info: MyString
+  yobi1: MyString
+  yobi2: MyString
+  yobi3: MyString
+
+two:
+  country: MyString
+  ken: MyString
+  shicyouson: MyString
+  info: MyString
+  yobi1: MyString
+  yobi2: MyString
+  yobi3: MyString

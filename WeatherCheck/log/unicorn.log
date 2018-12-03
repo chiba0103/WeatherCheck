@@ -1,0 +1,118 @@
+I, [2018-09-16T07:12:34.017400 #9879]  INFO -- : Refreshing Gem list
+I, [2018-09-16T07:12:34.851324 #9879]  INFO -- : listening on addr=/var/run/unicorn/unicorn_WeatherCheck.sock fd=13
+I, [2018-09-16T07:12:34.904929 #9889]  INFO -- : worker=0 ready
+I, [2018-09-16T07:12:34.907629 #9893]  INFO -- : worker=1 ready
+I, [2018-09-16T07:12:34.914113 #9897]  INFO -- : worker=2 ready
+I, [2018-09-16T07:12:34.916293 #9879]  INFO -- : master process ready
+I, [2018-09-16T07:12:34.971027 #9901]  INFO -- : worker=3 ready
+bundler: failed to load command: unicorn_rails (/home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails)
+ArgumentError: Already running on PID:9879 (or pid=/var/run/unicorn/unicorn_WeatherCheck.pid is stale)
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:205:in `pid='
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:137:in `start'
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/bin/unicorn_rails:209:in `<top (required)>'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `load'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `<top (required)>'
+bundler: failed to load command: unicorn_rails (/home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails)
+ArgumentError: Already running on PID:9879 (or pid=/var/run/unicorn/unicorn_WeatherCheck.pid is stale)
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:205:in `pid='
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:137:in `start'
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/bin/unicorn_rails:209:in `<top (required)>'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `load'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `<top (required)>'
+bundler: failed to load command: unicorn_rails (/home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails)
+ArgumentError: Already running on PID:9879 (or pid=/var/run/unicorn/unicorn_WeatherCheck.pid is stale)
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:205:in `pid='
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:137:in `start'
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/bin/unicorn_rails:209:in `<top (required)>'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `load'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `<top (required)>'
+bundler: failed to load command: unicorn_rails (/home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails)
+ArgumentError: Already running on PID:9879 (or pid=/var/run/unicorn/unicorn_WeatherCheck.pid is stale)
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:205:in `pid='
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:137:in `start'
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/bin/unicorn_rails:209:in `<top (required)>'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `load'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `<top (required)>'
+bundler: failed to load command: unicorn_rails (/home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails)
+ArgumentError: Already running on PID:9879 (or pid=/var/run/unicorn/unicorn_WeatherCheck.pid is stale)
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:205:in `pid='
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:137:in `start'
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/bin/unicorn_rails:209:in `<top (required)>'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `load'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `<top (required)>'
+bundler: failed to load command: unicorn_rails (/home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails)
+ArgumentError: Already running on PID:9879 (or pid=/var/run/unicorn/unicorn_WeatherCheck.pid is stale)
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:205:in `pid='
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/lib/unicorn/http_server.rb:137:in `start'
+  /home/vagrant/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/unicorn-5.4.1/bin/unicorn_rails:209:in `<top (required)>'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `load'
+  /home/vagrant/.rbenv/versions/2.4.1/bin/unicorn_rails:23:in `<top (required)>'
+Unicorn master intercepting TERM and sending myself QUIT instead
+I, [2018-09-16T09:57:35.241633 #9879]  INFO -- : reaped #<Process::Status: pid 9889 exit 0> worker=0
+I, [2018-09-16T09:57:35.241771 #9879]  INFO -- : reaped #<Process::Status: pid 9893 exit 0> worker=1
+I, [2018-09-16T09:57:35.241838 #9879]  INFO -- : reaped #<Process::Status: pid 9897 exit 0> worker=2
+I, [2018-09-16T09:57:35.241892 #9879]  INFO -- : reaped #<Process::Status: pid 9901 exit 0> worker=3
+I, [2018-09-16T09:57:35.242029 #9879]  INFO -- : master complete
+I, [2018-09-16T09:59:13.149331 #10255]  INFO -- : Refreshing Gem list
+I, [2018-09-16T09:59:13.742271 #10255]  INFO -- : unlinking existing socket=/var/run/unicorn/unicorn_WeatherCheck.sock
+I, [2018-09-16T09:59:13.742447 #10255]  INFO -- : listening on addr=/var/run/unicorn/unicorn_WeatherCheck.sock fd=12
+I, [2018-09-16T09:59:13.783012 #10291]  INFO -- : worker=0 ready
+I, [2018-09-16T09:59:13.787984 #10295]  INFO -- : worker=1 ready
+I, [2018-09-16T09:59:13.793013 #10299]  INFO -- : worker=2 ready
+I, [2018-09-16T09:59:13.795089 #10255]  INFO -- : master process ready
+I, [2018-09-16T09:59:13.799162 #10303]  INFO -- : worker=3 ready
+I, [2018-09-16T09:59:54.295298 #10255]  INFO -- : reaped #<Process::Status: pid 10291 exit 0> worker=0
+I, [2018-09-16T09:59:54.295464 #10255]  INFO -- : reaped #<Process::Status: pid 10295 exit 0> worker=1
+I, [2018-09-16T09:59:54.295533 #10255]  INFO -- : reaped #<Process::Status: pid 10299 exit 0> worker=2
+I, [2018-09-16T09:59:54.295575 #10255]  INFO -- : reaped #<Process::Status: pid 10303 exit 0> worker=3
+I, [2018-09-16T09:59:54.295791 #10255]  INFO -- : master complete
+I, [2018-09-16T11:27:03.756516 #10353]  INFO -- : Refreshing Gem list
+I, [2018-09-16T11:27:04.336397 #10353]  INFO -- : unlinking existing socket=/var/run/unicorn/unicorn_WeatherCheck.sock
+I, [2018-09-16T11:27:04.336682 #10353]  INFO -- : listening on addr=/var/run/unicorn/unicorn_WeatherCheck.sock fd=12
+I, [2018-09-16T11:27:04.383881 #10389]  INFO -- : worker=0 ready
+I, [2018-09-16T11:27:04.386433 #10391]  INFO -- : worker=1 ready
+I, [2018-09-16T11:27:04.388079 #10395]  INFO -- : worker=2 ready
+I, [2018-09-16T11:27:04.389199 #10353]  INFO -- : master process ready
+I, [2018-09-16T11:27:04.393910 #10401]  INFO -- : worker=3 ready
+I, [2018-09-16T11:27:07.591504 #10353]  INFO -- : reaped #<Process::Status: pid 10389 exit 0> worker=0
+I, [2018-09-16T11:27:07.591586 #10353]  INFO -- : reaped #<Process::Status: pid 10391 exit 0> worker=1
+I, [2018-09-16T11:27:07.591614 #10353]  INFO -- : reaped #<Process::Status: pid 10395 exit 0> worker=2
+I, [2018-09-16T11:27:07.591640 #10353]  INFO -- : reaped #<Process::Status: pid 10401 exit 0> worker=3
+I, [2018-09-16T11:27:07.591772 #10353]  INFO -- : master complete
+I, [2018-09-16T12:47:47.816217 #25106]  INFO -- : Refreshing Gem list
+I, [2018-09-16T12:47:50.475088 #25106]  INFO -- : listening on addr=/tmp/unicorn.sock fd=11
+I, [2018-09-16T12:47:50.479324 #25110]  INFO -- : worker=0 ready
+I, [2018-09-16T12:47:50.482173 #25114]  INFO -- : worker=1 ready
+I, [2018-09-16T12:47:50.483512 #25106]  INFO -- : master process ready
+I, [2018-09-16T12:47:50.503344 #25118]  INFO -- : worker=2 ready
+I, [2018-09-16T12:51:17.390750 #25234]  INFO -- : Refreshing Gem list
+I, [2018-09-16T12:51:18.092617 #25234]  INFO -- : unlinking existing socket=/tmp/unicorn.sock
+I, [2018-09-16T12:51:18.099610 #25234]  INFO -- : listening on addr=/tmp/unicorn.sock fd=15
+I, [2018-09-16T12:51:18.167490 #25244]  INFO -- : worker=0 ready
+I, [2018-09-16T12:51:18.170161 #25248]  INFO -- : worker=1 ready
+I, [2018-09-16T12:51:18.171102 #25234]  INFO -- : master process ready
+I, [2018-09-16T12:51:18.192889 #25252]  INFO -- : worker=2 ready
+I, [2018-09-16T12:51:30.506936 #25234]  INFO -- : reaped #<Process::Status: pid 25244 exit 0> worker=0
+I, [2018-09-16T12:51:30.507059 #25234]  INFO -- : reaped #<Process::Status: pid 25248 exit 0> worker=1
+I, [2018-09-16T12:51:30.507106 #25234]  INFO -- : reaped #<Process::Status: pid 25252 exit 0> worker=2
+I, [2018-09-16T12:51:30.507211 #25234]  INFO -- : master complete
+I, [2018-09-16T13:06:06.505975 #25415]  INFO -- : Refreshing Gem list
+I, [2018-09-16T13:06:07.260414 #25415]  INFO -- : unlinking existing socket=/tmp/unicorn.sock
+I, [2018-09-16T13:06:07.264661 #25415]  INFO -- : listening on addr=/tmp/unicorn.sock fd=15
+I, [2018-09-16T13:06:07.333584 #25425]  INFO -- : worker=0 ready
+I, [2018-09-16T13:06:07.338054 #25429]  INFO -- : worker=1 ready
+I, [2018-09-16T13:06:07.339661 #25415]  INFO -- : master process ready
+I, [2018-09-16T13:06:07.356645 #25433]  INFO -- : worker=2 ready
+I, [2018-10-24T13:58:23.358227 #2683]  INFO -- : Refreshing Gem list
+I, [2018-10-24T13:58:25.223437 #2683]  INFO -- : listening on addr=/tmp/unicorn.sock fd=15
+I, [2018-10-24T13:58:25.937090 #2694]  INFO -- : worker=0 ready
+I, [2018-10-24T13:58:25.940273 #2683]  INFO -- : master process ready
+I, [2018-10-24T13:58:25.973772 #2696]  INFO -- : worker=1 ready
+I, [2018-10-24T13:58:25.980920 #2700]  INFO -- : worker=2 ready
+I, [2018-11-14T14:04:05.024573 #7215]  INFO -- : Refreshing Gem list
+I, [2018-11-14T14:04:07.032470 #7215]  INFO -- : unlinking existing socket=/tmp/unicorn.sock
+I, [2018-11-14T14:04:07.052694 #7215]  INFO -- : listening on addr=/tmp/unicorn.sock fd=15
+I, [2018-11-14T14:04:07.747386 #7226]  INFO -- : worker=0 ready
+I, [2018-11-14T14:04:07.752275 #7230]  INFO -- : worker=1 ready
+I, [2018-11-14T14:04:07.753187 #7215]  INFO -- : master process ready
+I, [2018-11-14T14:04:07.782100 #7234]  INFO -- : worker=2 ready
